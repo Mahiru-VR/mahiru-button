@@ -10,13 +10,14 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+                    <div class="mahiru-title">
                     <router-link class="navbar-brand" to="/">{{ $t("info.title") }}</router-link>
+                    </div>
                 </div>
-                
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18"/></a></li>
-                        <li><a href="https://twitter.com/minatoaqua" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li>
+                        <li><a href="https://space.bilibili.com/477306079/" target="_blank"><img src="resources/Bilibili.png" height="20"/></a></li>
+                        <!-- <li><a href="https://twitter.com/minatoaqua" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li> -->
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
@@ -42,7 +43,7 @@
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
                 <div>{{$t("info.audioStaff")}}</div>
-                <div>Zyzsdy 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div>
+                <!-- <div>Zyzsdy 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div> -->
             </div>
         </footer>
   </div>
@@ -67,6 +68,13 @@ body{
 }
 .text-right{
     text-align: right;
+}
+.mahiru-icon{
+    display: block; 
+    margin: auto;
+}
+.mahiru-title{
+    vertical-align:middle;
 }
 </style>
 
