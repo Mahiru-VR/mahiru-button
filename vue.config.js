@@ -8,6 +8,9 @@ module.exports = {
             jQuery: 'jquery',
             'window.jQuery': 'jquery'
       })
-    ]
-  }
+    ],
+  },
+    publicPath: process.env.NODE_ENV === 'production'
+    ? '/Mahiru-VR.github.io'
+    : '/'
 }
