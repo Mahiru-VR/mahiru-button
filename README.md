@@ -1,5 +1,8 @@
-# Aqua button
+# Mahiru button
 
+## Forked from zyzsdy/aqua-button
+## The following content is the original README
+***
 Aqua button [Click here to visit https://aquaminato.moe](https://aquaminato.moe)
 
 [![Build Status](https://travis-ci.org/zyzsdy/aqua-button.svg?branch=master)](https://travis-ci.org/zyzsdy/aqua-button)
