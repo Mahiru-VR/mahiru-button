@@ -17,6 +17,7 @@
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="https://space.bilibili.com/477306079/" target="_blank"><img src="resources/Bilibili.png" height="20"/></a></li>
+                        <li><a href="https://mihiru.com" target="_blank"><img src="resources/mihiru-favicon.ico" height="20"/></a></li>
                         <!-- https://space.bilibili.com/481152650 -->
                         <li class="temp">音量注意</li>
                         <!-- <li><a href="https://mihiru.com" target="_blank"><img src="resources/mihiru-favicon.ico" height="20"/></a></li>
@@ -42,6 +43,7 @@
         <footer class="footer">
             <div class="container-fluid footer-content">
                 <div class="pull-right">
+                    <div>音频投稿请致: mahiruvr@163.com</div>
                     <div class="text-right"><img src="resources/mihiru-favicon.ico" height="18"><a href="https://mihiru.com/miarticles/" target="_blank">来看篇怪文书吧</a></div>
                     <!-- <div class="text-right">{{$t("info.notOfficial")}}</div> -->
                 </div>
