@@ -241,6 +241,54 @@
                         "zh-CN": "explosion",
                         "ja-JP": "explosion"
                     }
+                },
+                {
+                    "name": "田雨",
+                    "path": "田雨.mp3",
+                    "description": {
+                        "zh-CN": "田雨(亮剑)",
+                        "ja-JP": "鋼板のような姿"
+                    }
+                },
+                {
+                    "name": "秀芹1",
+                    "path": "秀芹1.mp3",
+                    "description": {
+                        "zh-CN": "秀芹1(亮剑)",
+                        "ja-JP": "鋼板のような姿"
+                    }
+                },
+                {
+                    "name": "秀芹2",
+                    "path": "秀芹2.mp3",
+                    "description": {
+                        "zh-CN": "秀芹2(亮剑)",
+                        "ja-JP": "秀芹2(亮剑)"
+                    }
+                },
+                {
+                    "name": "盘丝洞",
+                    "path": "盘丝洞.mp3",
+                    "description": {
+                        "zh-CN": "盘丝洞",
+                        "ja-JP": "プレート穴"
+                    }
+                },
+                {
+                    "name": "老鼠精",
+                    "path": "老鼠精.mp3",
+                    "description": {
+                        "zh-CN": "老鼠精",
+                        "ja-JP": "ネズミの怪物"
+                    }
+                },
+                {
+                    "name": "四大皆空",
+                    "path": "四大皆空.mp3",
+                    "description": {
+                        "zh-CN": "四大皆空",
+                        "ja-JP": "四方皆空"
+                    }
                 }
             ]
         },
