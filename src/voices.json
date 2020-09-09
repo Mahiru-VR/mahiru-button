@@ -16,6 +16,20 @@
                     }
                 },
                 {
+                    "name": "似哭似笑",
+                    "path": "似哭似笑.mp3",
+                    "description": {
+                        "zh-CN": "似哭似笑"
+                    }
+                },
+                {
+                    "name": "笑",
+                    "path": "笑.mp3",
+                    "description": {
+                        "zh-CN": "笑"
+                    }
+                },
+                {
                     "name": "m-3",
                     "path": "m-3.mp3",
                     "description": {
@@ -30,7 +44,181 @@
                         "zh-CN": "杂项",
                         "ja-JP": "未分类"
                     }
+                },                  
+                {
+                    "name": "呻吟6",
+                    "path": "呻吟6.wav",
+                    "description": {
+                        "zh-CN": "呻吟0"
+                    }
+                },
+                {
+                    "name": "孟：呻吟003",
+                    "path": "孟：呻吟003.wav",
+                    "description": {
+                        "zh-CN": "呻吟1"
+                    }
+                },
+                {
+                    "name": "孟：嗯→→↓",
+                    "path": "孟：嗯→→↓.wav",
+                    "description": {
+                        "zh-CN": "嗯→→↓"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪声006",
+                    "path": "孟：怪声006.wav",
+                    "description": {
+                        "zh-CN": "怪声0"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪声007",
+                    "path": "孟：怪声007.wav",
+                    "description": {
+                        "zh-CN": "怪声1"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪叫003",
+                    "path": "孟：怪叫003.wav",
+                    "description": {
+                        "zh-CN": "怪叫2"
+                    }
+                },
+            
+                {
+                    "name": "孟：啊？",
+                    "path": "孟：啊？.wav",
+                    "description": {
+                        "zh-CN": "啊？"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪声005",
+                    "path": "孟：怪声005.wav",
+                    "description": {
+                        "zh-CN": "怪声3"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪声011",
+                    "path": "孟：怪声011.wav",
+                    "description": {
+                        "zh-CN": "怪声4"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪声010",
+                    "path": "孟：怪声010.wav",
+                    "description": {
+                        "zh-CN": "怪声5"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪声004",
+                    "path": "孟：怪声004.wav",
+                    "description": {
+                        "zh-CN": "怪声6"
+                    }
+                },
+            
+                {
+                    "name": "孟：啊（无力）",
+                    "path": "孟：啊（无力）.wav",
+                    "description": {
+                        "zh-CN": "啊（无力）"
+                    }
+                },
+            
+                {
+                    "name": "孟：啊？（疑问）",
+                    "path": "孟：啊？（疑问）.wav",
+                    "description": {
+                        "zh-CN": "啊？（疑问）"
+                    }
+                },
+                {
+                    "name": "孟：梦歌2",
+                    "path": "孟：梦歌2.wav",
+                    "description": {
+                        "zh-CN": "梦歌2"
+                    }
+                },
+            
+                {
+                    "name": "孟：吸气声",
+                    "path": "孟：吸气声.wav",
+                    "description": {
+                        "zh-CN": "吸气声"
+                    }
+                },
+            
+                {
+                    "name": "孟：梦歌",
+                    "path": "孟：梦歌.wav",
+                    "description": {
+                        "zh-CN": "梦歌"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪声009",
+                    "path": "孟：怪声009.wav",
+                    "description": {
+                        "zh-CN": "怪声7"
+                    }
+                },
+            
+                {
+                    "name": "孟：怪声008",
+                    "path": "孟：怪声008.wav",
+                    "description": {
+                        "zh-CN": "怪声8"
+                    }
+                },
+
+                            
+                {
+                    "name": "孟：啊？？？",
+                    "path": "孟：啊？？？.wav",
+                    "description": {
+                        "zh-CN": "啊？？？"
+                    }
+                },
+            
+                {
+                    "name": "孟：啊嗯（想笑）",
+                    "path": "孟：啊嗯（想笑）.wav",
+                    "description": {
+                        "zh-CN": "啊嗯（想笑）"
+                    }
+                },
+            
+                {
+                    "name": "孟：呻吟004",
+                    "path": "孟：呻吟004.wav",
+                    "description": {
+                        "zh-CN": "呻吟2"
+                    }
+                },
+            
+                {
+                    "name": "孟：呻吟005",
+                    "path": "孟：呻吟005.wav",
+                    "description": {
+                        "zh-CN": "呻吟3"
+                    }
                 }
+            
             ]
         },
         {
@@ -41,11 +229,119 @@
             },
             "voiceList": [
                 {
+                    "name": "你孟宝是见过世面的",
+                    "path": "你孟宝是见过世面的.mp3",
+                    "description": {
+                        "zh-CN": "你孟宝是见过世面的"
+                    }
+                },
+            
+                {
+                    "name": "随便舔miki",
+                    "path": "随便舔miki.mp3",
+                    "description": {
+                        "zh-CN": "随便舔miki"
+                    }
+                },
+            
+                {
+                    "name": "大薯（条）",
+                    "path": "大薯（条）.wav",
+                    "description": {
+                        "zh-CN": "大薯（条）"
+                    }
+                },
+                {
                     "name": "m-4",
                     "path": "m-4.mp3",
                     "description": {
                         "zh-CN": "这合理吗",
                         "ja-JP": "川にいますか"
+                    }
+                },
+                {
+                    "name": "孟：听不懂了",
+                    "path": "孟：听不懂了.wav",
+                    "description": {
+                        "zh-CN": "听不懂了"
+                    }
+                },
+            
+                {
+                    "name": "孟：天呐",
+                    "path": "孟：天呐.wav",
+                    "description": {
+                        "zh-CN": "天呐"
+                    }
+                },
+            
+    
+                {
+                    "name": "孟：我是这种人吗",
+                    "path": "孟：我是这种人吗.wav",
+                    "description": {
+                        "zh-CN": "我是这种人吗"
+                    }
+                },
+            
+                {
+                    "name": "孟：我现在伸手就能揪Miki的头发你小心一点",
+                    "path": "孟：我现在伸手就能揪Miki的头发你小心一点.wav",
+                    "description": {
+                        "zh-CN": "我现在伸手就能揪Miki的头发你小心一点"
+                    }
+                }
+            
+
+            ]
+        },
+        {
+            "categoryName": "zqsg",
+            "categoryDescription": {
+                "zh-CN": "杂谈",
+                "ja-JP": "杂谈"
+            },
+            "voiceList": [
+                {
+                    "name": "我是凉宫",
+                    "path": "我是凉宫.mp3",
+                    "description": {
+                        "zh-CN": "我是凉宫"
+                    }
+                },
+                {
+                    "name": "倒贴不行",
+                    "path": "倒贴不行.mp3",
+                    "description": {
+                        "zh-CN": "倒贴不行"
+                    }
+                },
+                {
+                    "name": "帅气的妈宝",
+                    "path": "帅气的妈宝.mp3",
+                    "description": {
+                        "zh-CN": "帅气的妈宝"
+                    }
+                },
+                {
+                    "name": "美少女舔狗",
+                    "path": "美少女舔狗.mp3",
+                    "description": {
+                        "zh-CN": "美少女舔狗"
+                    }
+                },
+                {
+                    "name": "舔来的才可以",
+                    "path": "舔来的才可以.mp3",
+                    "description": {
+                        "zh-CN": "舔来的才可以"
+                    }
+                },
+                {
+                    "name": "喜欢梦想的小恶魔",
+                    "path": "喜欢梦想的小恶魔.mp3",
+                    "description": {
+                        "zh-CN": "喜欢梦想的小恶魔"
                     }
                 }
             ]
@@ -102,8 +398,8 @@
         {
             "categoryName": "words",
             "categoryDescription": {
-                "zh-CN": "台词",
-                "ja-JP": "せりふ"
+                "zh-CN": "中文台词",
+                "ja-JP": "中国語台詞"
             },
             "voiceList": [
                 {
@@ -195,14 +491,6 @@
                     }
                 },
                 {
-                    "name": "弱さは罪",
-                    "path": "弱さは罪.mp3",
-                    "description": {
-                        "zh-CN": "弱さは罪",
-                        "ja-JP": "弱さは罪"
-                    }
-                },
-                {
                     "name": "他们又开始在房间里烧烤了",
                     "path": "他們又開始在房間裡燒烤了.mp3",
                     "description": {
@@ -227,27 +515,11 @@
                     }
                 },
                 {
-                    "name": "现充爆炸吧",
-                    "path": "現充爆炸吧.mp3",
-                    "description": {
-                        "zh-CN": "现充爆炸吧",
-                        "ja-JP": "リア充爆発"
-                    }
-                },
-                {
-                    "name": "explosion",
-                    "path": "explosion.mp3",
-                    "description": {
-                        "zh-CN": "explosion",
-                        "ja-JP": "explosion"
-                    }
-                },
-                {
                     "name": "田雨",
                     "path": "田雨.mp3",
                     "description": {
                         "zh-CN": "田雨(亮剑)",
-                        "ja-JP": "鋼板のような姿"
+                        "ja-JP": "田雨(亮剑)"
                     }
                 },
                 {
@@ -255,7 +527,7 @@
                     "path": "秀芹1.mp3",
                     "description": {
                         "zh-CN": "秀芹1(亮剑)",
-                        "ja-JP": "鋼板のような姿"
+                        "ja-JP": "秀芹1(亮剑)"
                     }
                 },
                 {
@@ -290,6 +562,111 @@
                         "ja-JP": "四方皆空"
                     }
                 }
+            ]
+        },
+        {
+            "categoryName": "japanese_words",
+            "categoryDescription": {
+                "zh-CN": "日文台词",
+                "ja-JP": "日本語台詞"
+            },
+            "voiceList": [
+                {
+                    "name": "现充爆炸吧",
+                    "path": "現充爆炸吧.mp3",
+                    "description": {
+                        "zh-CN": "现充爆炸吧",
+                        "ja-JP": "リア充爆発"
+                    }
+                },
+                {
+                    "name": "explosion",
+                    "path": "explosion.mp3",
+                    "description": {
+                        "zh-CN": "explosion",
+                        "ja-JP": "explosion"
+                    }
+                },
+                {
+                    "name": "不也挺好吗",
+                    "path": "不也挺好吗.mp3",
+                    "description": {
+                        "zh-CN": "不也挺好吗"
+                    }
+                },
+                {
+                    "name": "弱さは罪",
+                    "path": "弱さは罪.mp3",
+                    "description": {
+                        "zh-CN": "弱さは罪",
+                        "ja-JP": "弱さは罪"
+                    }
+                },
+                {
+                    "name": "FGO-瑪修",
+                    "path": "FGO-瑪修.mp3",
+                    "description": {
+                        "zh-CN": "FGO-瑪修",
+                        "ja-JP": "FGO-瑪修"
+                    }
+                },
+                {
+                    "name": "FGO-冲田总司",
+                    "path": "FGO-沖田總司.mp3",
+                    "description": {
+                        "zh-CN": "FGO-冲田总司",
+                        "ja-JP": "FGO-冲田总司"
+                    }
+                },
+                {
+                    "name": "少女前线-G41",
+                    "path": "少女前線-G41.mp3",
+                    "description": {
+                        "zh-CN": "少女前线-G41",
+                        "ja-JP": "少女前线-G41"
+                    }
+                },
+                {
+                    "name": "少女前线-内格夫",
+                    "path": "少女前線-內格夫.mp3",
+                    "description": {
+                        "zh-CN": "少女前线-内格夫",
+                        "ja-JP": "少女前线-内格夫"
+                    }
+                },
+                {
+                    "name": "少女前线-柯尔特",
+                    "path": "少女前線-柯尔特.mp3",
+                    "description": {
+                        "zh-CN": "少女前线-柯尔特",
+                        "ja-JP": "少女前线-柯尔特"
+                    }
+                },
+                {
+                    "name": "泉此方",
+                    "path": "泉此方經典台詞.mp3",
+                    "description": {
+                        "zh-CN": "泉此方",
+                        "ja-JP": "泉此方"
+                    }
+                },
+                {
+                    "name": "不是只有小学生才是处男吗",
+                    "path": "不是只有小学生才是处男吗.mp3",
+                    "description": {
+                        "zh-CN": "不是只有小学生才是处男吗",
+                        "ja-JP": "不是只有小学生才是处男吗"
+                    }
+                },
+                {
+                    "name": "指挥官，这是我做的巧克力",
+                    "path": "指揮官，這是我做的巧克力.mp3",
+                    "description": {
+                        "zh-CN": "指挥官，这是我做的巧克力",
+                        "ja-JP": "指挥官，这是我做的巧克力"
+                    }
+                }
+                
             ]
         },
         {
