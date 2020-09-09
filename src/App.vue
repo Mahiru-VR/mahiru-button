@@ -18,6 +18,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="https://space.bilibili.com/477306079/" target="_blank"><img src="resources/Bilibili.png" height="20"/></a></li>
                         <!-- https://space.bilibili.com/481152650 -->
+                        <li class="temp">音量注意</li>
                         <!-- <li><a href="https://mihiru.com" target="_blank"><img src="resources/mihiru-favicon.ico" height="20"/></a></li>
                         <li><a href="https://twitter.com/minatoaqua" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li> -->
                     </ul>
@@ -78,6 +79,16 @@ body{
 }
 .mahiru-title{
     vertical-align:middle;
+}
+
+.temp{
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    color:rgba(0, 0, 0, 0.5);
+
 }
 </style>
 
