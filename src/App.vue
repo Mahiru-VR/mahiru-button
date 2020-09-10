@@ -48,8 +48,9 @@
                 </div>
                 <div class="pull-right">
                     <div>音频投稿请致: mahiruvr@163.com</div>
-                    <div class="text-right"><img src="resources/mihiru-favicon.ico" height="18"><a href="https://mihiru.com/miarticles/" target="_blank">来看篇怪文书吧</a></div>
-                    <!-- <div class="text-right">{{$t("info.notOfficial")}}</div> -->
+                    <!-- <div class="text-right"><img src="resources/mihiru-favicon.ico" height="18"><a href="https://mihiru.com/miarticles/" target="_blank">来看篇怪文书吧</a></div>
+                    <div class="text-right">{{$t("info.notOfficial")}}</div> -->
+                    <div><img src="resources/mihiru-favicon.ico" height="18"><a href="https://mihiru.com/miarticles/" target="_blank">来看篇怪文书吧</a></div>
                 </div>
                 <!-- <div>Zyzsdy 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div> -->
             </div>
@@ -80,7 +81,7 @@ body{
     color: #666;
     padding-bottom: 5px;
 }
-.text-right{
+.pull-right{
     text-align: right;
 }
 .mahiru-icon{
