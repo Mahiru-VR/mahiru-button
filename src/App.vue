@@ -42,13 +42,15 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
+                <div class="pull-left">
+                    <div>{{$t("info.audioStaff")}}</div>
+                    <div><a href="https://github.com/zyzsdy/aqua-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/aqua-button.svg?style=social"/></a></div>
+                </div>
                 <div class="pull-right">
                     <div>音频投稿请致: mahiruvr@163.com</div>
                     <div class="text-right"><img src="resources/mihiru-favicon.ico" height="18"><a href="https://mihiru.com/miarticles/" target="_blank">来看篇怪文书吧</a></div>
                     <!-- <div class="text-right">{{$t("info.notOfficial")}}</div> -->
                 </div>
-                <div>{{$t("info.audioStaff")}}</div>
-                <div><a href="https://github.com/zyzsdy/aqua-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/aqua-button.svg?style=social"/></a></div>
                 <!-- <div>Zyzsdy 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div> -->
             </div>
         </footer>
@@ -59,18 +61,24 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 body{
     padding-top: 70px;
+    height: 100%;
 }
 .main-content{
-    min-height: 100vh;
+    //min-height: 100vh;
+    flex:1 0 auto;
 }
 .footer {
     width: 100%;
-    height: 60px;
+    //height: 60px;
+    flex-shrink: 0;
     background-color: #ebebeb;
 }
 .footer-content {
-    padding-top: 10px;
+    padding-top: 5px;
+    flex-direction: row;
+    display: flex;
     color: #666;
+    padding-bottom: 5px;
 }
 .text-right{
     text-align: right;
@@ -90,8 +98,18 @@ body{
     font-size: 18px;
     line-height: 20px;
     color:rgba(0, 0, 0, 0.5);
-
 }
+
+.pull-left{
+    flex:auto;
+}
+
+#app{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
 </style>
 
 <script>
