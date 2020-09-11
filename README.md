@@ -1,9 +1,10 @@
 # Mahiru button
 
 ## Forked from zyzsdy/aqua-button
-## The following content is the original README
 ### Build Status: 
 [![Build Status](https://travis-ci.com/Mahiru-VR/mahiru-button.svg?branch=master)](https://travis-ci.com/Mahiru-VR/mahiru-button)
+## The following content is the original README
+
 ***
 Aqua button [Click here to visit https://aquaminato.moe](https://aquaminato.moe)
 
