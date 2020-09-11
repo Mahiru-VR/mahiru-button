@@ -6,7 +6,8 @@ const zh_CN = {
         audioStaff: "音频剪辑: 魔球群群友",
         toGithub: "Forked from /zyzsdy/aqua-button/",
         //notOfficial: "本站为爱好者作品，和hololive官方没有关联",
-        overlapTips: "重叠播放无法暂停，而且会创建大量线程，玩够了最好刷新一下"
+        overlapTips: "重叠播放无法暂停，而且会创建大量线程，玩够了最好刷新一下",
+        thisProject: "本项目"
     },
     action: {
         toggleNavbar: "切换导航栏",

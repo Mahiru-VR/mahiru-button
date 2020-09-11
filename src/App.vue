@@ -44,7 +44,9 @@
             <div class="container-fluid footer-content">
                 <div class="pull-left">
                     <div>{{$t("info.audioStaff")}}</div>
-                    <div><a href="https://github.com/zyzsdy/aqua-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/aqua-button.svg?style=social"/></a></div>
+                    <!-- <div><a href="https://github.com/Mahiru-VR/mahiru-button" target="_blank">{{$t("info.thisProject")}} <img src="https://img.shields.io/github/stars/zyzsdy/aqua-button.svg?style=social"/></a></div> -->
+                    <div><a href="https://github.com/Mahiru-VR/mahiru-button" target="_blank">{{$t("info.thisProject")}} </a><a href="https://github.com/zyzsdy/aqua-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/aqua-button.svg?style=social"/></a></div>
+            
                 </div>
                 <div class="pull-right">
                     <div>音频投稿请致: mahiruvr@163.com</div>
@@ -111,6 +113,9 @@ body{
     height: 100%;
 }
 
+html{
+    height:100%;
+}
 </style>
 
 <script>
