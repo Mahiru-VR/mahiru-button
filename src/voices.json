@@ -44,7 +44,7 @@
                         "zh-CN": "怪声9",
                         "ja-JP": "未分类"
                     }
-                },                  
+                },
                 {
                     "name": "呻吟6",
                     "path": "呻吟6.wav",
@@ -66,7 +66,6 @@
                         "zh-CN": "嗯→→↓"
                     }
                 },
-            
                 {
                     "name": "孟：怪声006",
                     "path": "孟：怪声006.wav",
@@ -74,7 +73,6 @@
                         "zh-CN": "怪声0"
                     }
                 },
-            
                 {
                     "name": "孟：怪声007",
                     "path": "孟：怪声007.wav",
@@ -82,7 +80,6 @@
                         "zh-CN": "怪声1"
                     }
                 },
-            
                 {
                     "name": "孟：怪叫003",
                     "path": "孟：怪叫003.wav",
@@ -90,7 +87,6 @@
                         "zh-CN": "怪叫2"
                     }
                 },
-            
                 {
                     "name": "孟：啊？",
                     "path": "孟：啊？.wav",
@@ -98,7 +94,6 @@
                         "zh-CN": "啊？"
                     }
                 },
-            
                 {
                     "name": "孟：怪声005",
                     "path": "孟：怪声005.wav",
@@ -106,7 +101,6 @@
                         "zh-CN": "怪声3"
                     }
                 },
-            
                 {
                     "name": "孟：怪声011",
                     "path": "孟：怪声011.wav",
@@ -114,7 +108,6 @@
                         "zh-CN": "怪声4"
                     }
                 },
-            
                 {
                     "name": "孟：怪声010",
                     "path": "孟：怪声010.wav",
@@ -122,7 +115,6 @@
                         "zh-CN": "怪声5"
                     }
                 },
-            
                 {
                     "name": "孟：怪声004",
                     "path": "孟：怪声004.wav",
@@ -130,7 +122,6 @@
                         "zh-CN": "怪声6"
                     }
                 },
-            
                 {
                     "name": "孟：啊（无力）",
                     "path": "孟：啊（无力）.wav",
@@ -138,7 +129,6 @@
                         "zh-CN": "啊（无力）"
                     }
                 },
-            
                 {
                     "name": "孟：啊？（疑问）",
                     "path": "孟：啊？（疑问）.wav",
@@ -153,7 +143,6 @@
                         "zh-CN": "蔷薇の塔で眠る姫君"
                     }
                 },
-            
                 {
                     "name": "孟：吸气声",
                     "path": "孟：吸气声.wav",
@@ -161,7 +150,6 @@
                         "zh-CN": "吸气声"
                     }
                 },
-            
                 {
                     "name": "孟：梦歌",
                     "path": "孟：梦歌.wav",
@@ -169,7 +157,6 @@
                         "zh-CN": "眠り姫"
                     }
                 },
-            
                 {
                     "name": "孟：怪声009",
                     "path": "孟：怪声009.wav",
@@ -177,7 +164,6 @@
                         "zh-CN": "怪声7"
                     }
                 },
-            
                 {
                     "name": "孟：怪声008",
                     "path": "孟：怪声008.wav",
@@ -185,8 +171,6 @@
                         "zh-CN": "怪声8"
                     }
                 },
-
-                            
                 {
                     "name": "孟：啊？？？",
                     "path": "孟：啊？？？.wav",
@@ -194,7 +178,6 @@
                         "zh-CN": "啊？？？"
                     }
                 },
-            
                 {
                     "name": "孟：啊嗯（想笑）",
                     "path": "孟：啊嗯（想笑）.wav",
@@ -202,7 +185,6 @@
                         "zh-CN": "啊嗯（想笑）"
                     }
                 },
-            
                 {
                     "name": "孟：呻吟004",
                     "path": "孟：呻吟004.wav",
@@ -210,15 +192,118 @@
                         "zh-CN": "呻吟2"
                     }
                 },
-            
                 {
                     "name": "孟：呻吟005",
                     "path": "孟：呻吟005.wav",
                     "description": {
                         "zh-CN": "呻吟3"
                     }
+                },
+                {
+                    "name": "绿坝绿坝",
+                    "path": "绿坝绿坝.mp3",
+                    "description": {
+                        "zh-CN": "绿坝绿坝"
+                    }
+                },
+                {
+                    "name": "嗯——（鼻音）",
+                    "path": "嗯——（鼻音）.wav",
+                    "description": {
+                        "zh-CN": "嗯——（鼻音）"
+                    }
+                },
+                {
+                    "name": "浅笑",
+                    "path": "浅笑.wav",
+                    "description": {
+                        "zh-CN": "浅笑"
+                    }
+                },
+                {
+                    "name": "笑声（很开心）",
+                    "path": "笑声（很开心）.wav",
+                    "description": {
+                        "zh-CN": "笑声（很开心）"
+                    }
+                },
+                {
+                    "name": "啊↑啊↓",
+                    "path": "啊↑啊↓.wav",
+                    "description": {
+                        "zh-CN": "啊↑啊↓"
+                    }
+                },
+                {
+                    "name": "笑声（开心）",
+                    "path": "笑声（开心）.wav",
+                    "description": {
+                        "zh-CN": "笑声（开心）"
+                    }
+                },
+                {
+                    "name": "尖叫",
+                    "path": "尖叫.wav",
+                    "description": {
+                        "zh-CN": "尖叫"
+                    }
+                },
+                {
+                    "name": "嗯~↓",
+                    "path": "嗯~↓.wav",
+                    "description": {
+                        "zh-CN": "嗯~↓"
+                    }
+                },
+                {
+                    "name": "咽口水",
+                    "path": "咽口水.wav",
+                    "description": {
+                        "zh-CN": "咽口水"
+                    }
+                },
+                {
+                    "name": "嗯（舒服）",
+                    "path": "嗯（舒服）.wav",
+                    "description": {
+                        "zh-CN": "嗯（舒服）"
+                    }
+                },
+                {
+                    "name": "呻吟6",
+                    "path": "呻吟6.wav",
+                    "description": {
+                        "zh-CN": "呻吟6"
+                    }
+                },
+                {
+                    "name": "MIKIRIN",
+                    "path": "MIKIRIN.wav",
+                    "description": {
+                        "zh-CN": "MIKIRIN"
+                    }
+                },
+                {
+                    "name": "MIKIRIN-Part2",
+                    "path": "MIKIRIN-Part2.wav",
+                    "description": {
+                        "zh-CN": "MIKIRIN-Part2"
+                    }
+                },
+                {
+                    "name": "笑声",
+                    "path": "笑声.wav",
+                    "description": {
+                        "zh-CN": "笑声"
+                    }
+                },
+                {
+                    "name": "MIKIRIN-Part1",
+                    "path": "MIKIRIN-Part1.wav",
+                    "description": {
+                        "zh-CN": "MIKIRIN-Part1"
+                    }
                 }
-            
             ]
         },
         {
@@ -229,13 +314,68 @@
             },
             "voiceList": [
                 {
+                    "name": "不要动我的身体了",
+                    "path": "不要动我的身体了.wav",
+                    "description": {
+                        "zh-CN": "不要动我的身体了"
+                    }
+                },
+                {
+                    "name": "把裙子脱了",
+                    "path": "把裙子脱了.wav",
+                    "description": {
+                        "zh-CN": "把裙子脱了"
+                    }
+                },
+                {
+                    "name": "下去得准备口球了",
+                    "path": "下去得准备口球了.wav",
+                    "description": {
+                        "zh-CN": "下去得准备口球了"
+                    }
+                },
+                {
+                    "name": "弥希MIKI唱歌真好听",
+                    "path": "弥希MIKI唱歌真好听.wav",
+                    "description": {
+                        "zh-CN": "弥希MIKI唱歌真好听"
+                    }
+                },
+                {
+                    "name": "我还给她准备了睡衣",
+                    "path": "我还给她准备了睡衣.wav",
+                    "description": {
+                        "zh-CN": "我还给她准备了睡衣"
+                    }
+                },
+                {
+                    "name": "坏女人买的大薯",
+                    "path": "坏女人买的大薯.wav",
+                    "description": {
+                        "zh-CN": "坏女人买的大薯"
+                    }
+                },
+                {
+                    "name": "我帮你洗",
+                    "path": "我帮你洗.wav",
+                    "description": {
+                        "zh-CN": "我帮你洗"
+                    }
+                },
+                {
+                    "name": "眼罩用了呀",
+                    "path": "眼罩用了呀.wav",
+                    "description": {
+                        "zh-CN": "眼罩用了呀"
+                    }
+                },
+                {
                     "name": "你孟宝是见过世面的",
                     "path": "你孟宝是见过世面的.mp3",
                     "description": {
                         "zh-CN": "你孟宝是见过世面的"
                     }
                 },
-            
                 {
                     "name": "随便舔miki",
                     "path": "随便舔miki.mp3",
@@ -243,7 +383,6 @@
                         "zh-CN": "随便舔miki"
                     }
                 },
-            
                 {
                     "name": "大薯（条）",
                     "path": "大薯（条）.wav",
@@ -266,7 +405,6 @@
                         "zh-CN": "听不懂了"
                     }
                 },
-            
                 {
                     "name": "孟：天呐",
                     "path": "孟：天呐.wav",
@@ -274,8 +412,6 @@
                         "zh-CN": "天呐"
                     }
                 },
-            
-    
                 {
                     "name": "孟：我是这种人吗",
                     "path": "孟：我是这种人吗.wav",
@@ -283,16 +419,20 @@
                         "zh-CN": "我是这种人吗"
                     }
                 },
-            
                 {
                     "name": "孟：我现在伸手就能揪Miki的头发你小心一点",
                     "path": "孟：我现在伸手就能揪Miki的头发你小心一点.wav",
                     "description": {
                         "zh-CN": "我现在伸手就能揪Miki的头发你小心一点"
                     }
+                },
+                {
+                    "name": "亚撒西",
+                    "path": "亚撒西.wav",
+                    "description": {
+                        "zh-CN": "亚撒西"
+                    }
                 }
-            
-
             ]
         },
         {
@@ -666,7 +806,6 @@
                         "ja-JP": "指挥官，这是我做的巧克力"
                     }
                 }
-                
             ]
         },
         {
