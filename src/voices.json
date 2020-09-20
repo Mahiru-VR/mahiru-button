@@ -314,6 +314,97 @@
             },
             "voiceList": [
                 {
+                    "name": "你孟宝是见过世面的",
+                    "path": "你孟宝是见过世面的.mp3",
+                    "description": {
+                        "zh-CN": "你孟宝是见过世面的"
+                    }
+                },
+                {
+                    "name": "弥希miki最近很怪",
+                    "path": "弥希miki最近很怪.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki最近很怪"
+                    }
+                },
+                {
+                    "name": "在跳我的脸啊",
+                    "path": "在跳我的脸啊.mp3",
+                    "description": {
+                        "zh-CN": "在跳我的脸啊"
+                    }
+                },
+                {
+                    "name": "气死我了",
+                    "path": "气死我了.mp3",
+                    "description": {
+                        "zh-CN": "气死我了"
+                    }
+                },
+                {
+                    "name": "不也挺好吗_cn",
+                    "path": "不也挺好吗_cn.mp3",
+                    "description": {
+                        "zh-CN": "不也挺好吗"
+                    }
+                },
+                {
+                    "name": "猫叫",
+                    "path": "猫叫.m4a",
+                    "description": {
+                        "zh-CN": "猫叫"
+                    }
+                },
+                {
+                    "name": "我们一起努力当舔狗吧",
+                    "path": "我们一起努力当舔狗吧.mp3",
+                    "description": {
+                        "zh-CN": "我们一起努力当舔狗吧"
+                    }
+                },
+                {
+                    "name": "工人领袖mhr",
+                    "path": "工人领袖mhr.mp3",
+                    "description": {
+                        "zh-CN": "工人领袖mhr"
+                    }
+                },
+                {
+                    "name": "随便舔miki",
+                    "path": "随便舔miki.mp3",
+                    "description": {
+                        "zh-CN": "随便舔miki"
+                    }
+                },
+                {
+                    "name": "四脚朝天，真的很可爱",
+                    "path": "四脚朝天，真的很可爱.mp3",
+                    "description": {
+                        "zh-CN": "四脚朝天，真的很可爱"
+                    }
+                },
+                {
+                    "name": "这不是把河豚骗进来杀吗",
+                    "path": "这不是把河豚骗进来杀吗.mp3",
+                    "description": {
+                        "zh-CN": "这不是把河豚骗进来杀吗"
+                    }
+                },
+                {
+                    "name": "能不能积点德",
+                    "path": "能不能积点德.mp3",
+                    "description": {
+                        "zh-CN": "能不能积点德"
+                    }
+                },
+                {
+                    "name": "不要星星",
+                    "path": "不要星星.mp3",
+                    "description": {
+                        "zh-CN": "不要星星"
+                    }
+                },
+                {
                     "name": "不要动我的身体了",
                     "path": "不要动我的身体了.wav",
                     "description": {
@@ -442,6 +533,13 @@
                 "ja-JP": "杂谈"
             },
             "voiceList": [
+                {
+                    "name": "想当挺王的mhr",
+                    "path": "想当挺王的mhr.mp3",
+                    "description": {
+                        "zh-CN": "想当挺王的mhr"
+                    }
+                },
                 {
                     "name": "我是凉宫",
                     "path": "我是凉宫.mp3",
@@ -731,7 +829,7 @@
                     "name": "不也挺好吗",
                     "path": "不也挺好吗.mp3",
                     "description": {
-                        "zh-CN": "不也挺好吗"
+                        "zh-CN": "不也挺好吗(日语)"
                     }
                 },
                 {
