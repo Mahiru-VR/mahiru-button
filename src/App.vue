@@ -50,6 +50,7 @@
                 </div>
                 <div class="pull-right">
                     <div>音频投稿请致: mahiruvr@163.com</div>
+                    <div>暂时调整部分按钮，请见谅</div>
                     <!-- <div class="text-right"><img src="resources/mihiru-favicon.ico" height="18"><a href="https://mihiru.com/miarticles/" target="_blank">来看篇怪文书吧</a></div>
                     <div class="text-right">{{$t("info.notOfficial")}}</div> -->
                     <div><img src="resources/mihiru-favicon.ico" height="18"><a href="https://mihiru.com/miarticles/" target="_blank">来看篇怪文书吧</a></div>

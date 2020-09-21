@@ -276,15 +276,34 @@
                         "zh-CN": "呻吟6"
                     }
                 },
-
+                {
+                    "name": "MIKIRIN",
+                    "path": "MIKIRIN.wav",
+                    "description": {
+                        "zh-CN": "MIKIRIN"
+                    }
+                },
+                {
+                    "name": "MIKIRIN-Part2",
+                    "path": "MIKIRIN-Part2.wav",
+                    "description": {
+                        "zh-CN": "MIKIRIN-Part2"
+                    }
+                },
                 {
                     "name": "笑声",
                     "path": "笑声.wav",
                     "description": {
                         "zh-CN": "笑声"
                     }
+                },
+                {
+                    "name": "MIKIRIN-Part1",
+                    "path": "MIKIRIN-Part1.wav",
+                    "description": {
+                        "zh-CN": "MIKIRIN-Part1"
+                    }
                 }
-
             ]
         },
         {
@@ -301,7 +320,13 @@
                         "zh-CN": "你孟宝是见过世面的"
                     }
                 },
-
+                {
+                    "name": "弥希miki最近很怪",
+                    "path": "弥希miki最近很怪.mp3",
+                    "description": {
+                        "zh-CN": "弥希miki最近很怪"
+                    }
+                },
                 {
                     "name": "在跳我的脸啊",
                     "path": "在跳我的脸啊.mp3",
@@ -344,7 +369,13 @@
                         "zh-CN": "工人领袖mhr"
                     }
                 },
-
+                // {
+                //     "name": "随便舔miki",
+                //     "path": "随便舔miki.mp3",
+                //     "description": {
+                //         "zh-CN": "随便舔miki"
+                //     }
+                // },
                 {
                     "name": "四脚朝天，真的很可爱",
                     "path": "四脚朝天，真的很可爱.mp3",
@@ -394,7 +425,13 @@
                         "zh-CN": "下去得准备口球了"
                     }
                 },
-
+                {
+                    "name": "弥希MIKI唱歌真好听",
+                    "path": "弥希MIKI唱歌真好听.wav",
+                    "description": {
+                        "zh-CN": "弥希MIKI唱歌真好听"
+                    }
+                },
                 {
                     "name": "我还给她准备了睡衣",
                     "path": "我还给她准备了睡衣.wav",
@@ -430,7 +467,13 @@
                         "zh-CN": "你孟宝是见过世面的"
                     }
                 },
-
+                {
+                    "name": "随便舔miki",
+                    "path": "随便舔miki.mp3",
+                    "description": {
+                        "zh-CN": "随便舔miki"
+                    }
+                },
                 {
                     "name": "大薯（条）",
                     "path": "大薯（条）.wav",
@@ -467,7 +510,13 @@
                         "zh-CN": "我是这种人吗"
                     }
                 },
-
+                {
+                    "name": "孟：我现在伸手就能揪Miki的头发你小心一点",
+                    "path": "孟：我现在伸手就能揪Miki的头发你小心一点.wav",
+                    "description": {
+                        "zh-CN": "我现在伸手就能揪Miki的头发你小心一点"
+                    }
+                },
                 {
                     "name": "亚撒西",
                     "path": "亚撒西.wav",
@@ -591,7 +640,14 @@
                 "ja-JP": "中国語台詞"
             },
             "voiceList": [
-
+                {
+                    "name": "不错嘛miki作为工具人你做得还是可以的",
+                    "path": "不錯嘛miki作為工具人你做得還是可以的.mp3",
+                    "description": {
+                        "zh-CN": "不错嘛miki作为工具人你做得还是可以的",
+                        "ja-JP": "良いツールマン"
+                    }
+                },
                 {
                     "name": "虫群摧毁了我们的家园",
                     "path": "蟲群摧毀了我們的家園.mp3",
