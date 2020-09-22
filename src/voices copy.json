@@ -369,13 +369,13 @@
                         "zh-CN": "工人领袖mhr"
                     }
                 },
-                // {
-                //     "name": "随便舔miki",
-                //     "path": "随便舔miki.mp3",
-                //     "description": {
-                //         "zh-CN": "随便舔miki"
-                //     }
-                // },
+                {
+                    "name": "随便舔miki",
+                    "path": "随便舔miki.mp3",
+                    "description": {
+                        "zh-CN": "随便舔miki"
+                    }
+                },
                 {
                     "name": "四脚朝天，真的很可爱",
                     "path": "四脚朝天，真的很可爱.mp3",

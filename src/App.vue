@@ -1,4 +1,5 @@
-<template>
+<template comments>
+<!--我是注释内容-->
   <div id="app">
         <Modal></Modal>
         <nav class="navbar navbar-default navbar-fixed-top">
@@ -120,6 +121,7 @@ html{
 </style>
 
 <script>
+
 import Vue from 'vue'
 import Component from 'vue-class-component'
 import Modal from './components/modal.vue'
@@ -136,13 +138,13 @@ class App extends Vue {
     }
     created(){
         // eslint-disable-next-line 
-        console.log("Produced by MoewSound Idols");
         this.$i18n.locale = localStorage.getItem("lang") || this.$i18n.locale;
     }
     chlang(v){
         this.$i18n.locale = v;
         localStorage.setItem("lang", v);
     }
+
 }
 
 export default App;

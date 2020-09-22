@@ -3,11 +3,14 @@
 # abort on errors
 set -e
 
+rm -rf dist
 # build
 npm run build
 
 # navigate into the build output directory
 cd dist
+touch CNAME
+echo "mahiru.cn" >> CNAME
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
